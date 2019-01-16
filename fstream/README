@@ -1,0 +1,3 @@
+Funcionamento:
+
+O arquivo cria um ".txt" chamado Usuarios.txt que contem o objeto pessoa passado pelo usuario. 
